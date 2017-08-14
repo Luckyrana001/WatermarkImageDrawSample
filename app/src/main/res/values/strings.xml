@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WatermarkImageDrawSample</string>
+    <string name="permission_title">Permission Required</string>
+    <string name="permission_msg">Storage Permission Required </string>
+    <string name="ok">OK</string>
+
+
+    <string name="user_cancelled_image_capture">User cancelled image capture</string>
+    <string name="sorry_failed_to_capture_image">Sorry! Failed to capture image</string>
+</resources>
