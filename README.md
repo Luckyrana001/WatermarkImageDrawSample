@@ -1,7 +1,7 @@
 # WatermarkImageDrawSample
 
 
-![ScreenShot](https://github.com/Luckyrana001/WatermarkImageDrawSample/blob/master/watermark1.png{url})
+![ScreenShot](https://{https://github.com/Luckyrana001/WatermarkImageDrawSample/blob/master/watermark1.png})
 
 
 
