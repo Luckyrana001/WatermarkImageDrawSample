@@ -1,8 +1,6 @@
 # WatermarkImageDrawSample
 
-
-![ScreenShot](https://github.com/Luckyrana001/WatermarkImageDrawSample/blob/master/watermark1.png)
-
+<img src="https://github.com/Luckyrana001/WatermarkImageDrawSample/blob/master/watermark1.png" alt="Drawing" style="width: 200px;"/>
 
 
 
