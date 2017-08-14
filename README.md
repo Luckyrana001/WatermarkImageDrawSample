@@ -1,6 +1,9 @@
 # WatermarkImageDrawSample
-first commit
-https://github.com/Luckyrana001/WatermarkImageDrawSample/blob/master/watermark1.png
+
+
+![ScreenShot](https://github.com/Luckyrana001/WatermarkImageDrawSample/blob/master/watermark1.png{url})
+
+
 
 
 
